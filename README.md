@@ -1,10 +1,9 @@
-- 👋 Hi, I’m @Yoxmo
-- 👀 I’m interested in ...
-- 🌱 I’m currently learning ...
-- 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me ...
+# Welcome
 
-<!---
-Yoxmo/Yoxmo is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+Stats:
+
+![Yoxmo github stats](https://github-readme-stats.vercel.app/api?username=yoxmo&show_icons=true&theme=tokyonight)
+
+===============================================================
+
+[![trophy](https://github-profile-trophy.vercel.app/?username=yoxmo&theme=nord&margin-w=15&margin-h=15&column=4)]()
