@@ -1,9 +1,7 @@
-<div align="center">
-  <b> 
-    Welcome
-  </b>
 
- =================
+<div align="center">
+=====================================
+<p></p>
 
 ![Yoxmo github stats](https://github-readme-stats.vercel.app/api?username=yoxmo&show_icons=true&theme=tokyonight)
 
