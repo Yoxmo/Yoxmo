@@ -30,10 +30,10 @@ I am excited to see where the future of technology takes us.
 > - Contact me at [mamo.17@buckeyemail.osu.edu](mailto:mamo.17@buckeyemail.osu.edu).
 >  <p> <br> </p>
 
----
 
 <div align="center" style="width:75%"> 
-
+  ---
+  <p><br></p>
  <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=dark" style='width:80%;'/>
 
 </div>
