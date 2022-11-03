@@ -1,17 +1,37 @@
+<h3 align="center">
+<img src="https://static.vecteezy.com/system/resources/previews/009/626/037/non_2x/silhouette-landscape-with-fog-forest-pine-trees-mountains-illustration-of-national-park-view-mist-black-and-white-good-for-wallpaper-background-banner-cover-poster-free-vector.jpg" style='width:100%; height: 300px; border-radius: 25px;'/>
+</h3> 
 
-<div align="center">
+<p align="center">
+  <a href="https://github.com/Yoxmo"> <img src="https://gpvc.arturio.dev/yoxmo" alt="Awards"> </a>
+  <a href="https://replit.com/@Yoxmo"><img style="width: 100px; height: 25px; border: 25px" src="https://blog.replit.com/images/new_logo/logotype.png?v=1664916455431" alt="Replit"></a> 
+</p>
+
+--- 
+
+Hello, my name is Y, I'm currently a University student studying computer science. I mainly do projects in python, javascript, and occasionally c/c++.
+
+Im interested in Neural Networks and Deep Learning as well as Quantaum Computers, I've worked with the cloud-based quantum computer hosted by IBM and had access to GTB-1 when it was first released. I am excited to see where the future of technology takes us.
+
+<a href="https://github.com/yoxmo">
+  <img align="right" src="https://github-readme-streak-stats.herokuapp.com/?user=yoxmo&theme=dark" />
+</a>
+
+- View all my projects [here](https://github.com/yoxmo).
+- Try out some repos [here](replit.com/@Yoxmo)
+- Contact me at [mamo.17@buckeyemail.osu.edu](mailto:mamo.17@buckeyemail.osu.edu)
+<p>
 <br>
-<p></p>
-
-![Yoxmo github stats](https://github-readme-stats.vercel.app/api?username=yoxmo&show_icons=true&theme=tokyonight)
-
 <br>
+<br>
+</p>
 
-[![trophy](https://github-profile-trophy.vercel.app/?username=yoxmo&theme=nord&margin-w=15&margin-h=15&column=3)]()
+---
 
-<!-- [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=anuraghazra&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
-  
-[<img src="https://www.pngall.com/wp-content/uploads/9/Start-Button-Vector-PNG-Images.png" width="250"/>](https://github.com/user/repository/subscription)
+<div align="center" style="width:75%"> 
+
+![Daily Quote](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=dark)
 
 </div>
+
 
