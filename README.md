@@ -1,5 +1,5 @@
 
-<!-- <div align="center"> -->
+<div align="center">
 <br>
 <p></p>
 
@@ -13,5 +13,5 @@
   
 [<img src="https://www.pngall.com/wp-content/uploads/9/Start-Button-Vector-PNG-Images.png" width="250"/>](https://github.com/user/repository/subscription)
 
-</div> -->
+</div>
 
