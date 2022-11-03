@@ -25,8 +25,8 @@ I am excited to see where the future of technology takes us.
 
 
 > - View all my [projects](https://github.com/yoxmo).
-> - Try out some [repos](replit.com/@Yoxmo).
-> - Check out my [website](replit.com/@Yoxmo).
+> - Try out some [repos](https://replit.com/@Yoxmo).
+> - Check out my [website](https://replit.com/@Yoxmo).
 > - Contact me at [mamo.17@buckeyemail.osu.edu](mailto:mamo.17@buckeyemail.osu.edu).
 >  <p> <br> </p>
 
