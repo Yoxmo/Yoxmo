@@ -1,5 +1,5 @@
 <h3 align="center">
-<img src="https://i.imgur.com/pqjMUHa.png" style='width:100%; height: 300px; border-radius: 25px;'/>
+<img src="https://i.imgur.com/pqjMUHa.png" style='width:100%; height: 300px;'/>
 </h3> 
 
 <p align="center">
@@ -31,7 +31,7 @@ Im interested in Neural Networks and Deep Learning as well as Quantaum Computers
 
 <div align="center" style="width:75%"> 
 
-![Daily Quote](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=dark)
+ <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=dark" style='width:80%;'/>
 
 </div>
 
