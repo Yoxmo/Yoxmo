@@ -1,10 +1,10 @@
 <h3 align="center">
-<img src="https://static.vecteezy.com/system/resources/previews/009/626/037/non_2x/silhouette-landscape-with-fog-forest-pine-trees-mountains-illustration-of-national-park-view-mist-black-and-white-good-for-wallpaper-background-banner-cover-poster-free-vector.jpg" style='width:100%; height: 300px; border-radius: 25px;'/>
+<img src="https://i.imgur.com/pqjMUHa.png" style='width:100%; height: 300px; border-radius: 25px;'/>
 </h3> 
 
 <p align="center">
   <a href="https://github.com/Yoxmo"> <img src="https://gpvc.arturio.dev/yoxmo" alt="Awards"> </a>
-  <a href="https://replit.com/@Yoxmo"><img style="width: 100px; height: 25px; border: 25px" src="https://blog.replit.com/images/new_logo/logotype.png?v=1664916455431" alt="Replit"></a> 
+  <a href="https://replit.com/@Yoxmo"><img style="width: 100px;" src="https://blog.replit.com/images/new_logo/logotype.png?v=1664916455431" alt="Replit"></a> 
 </p>
 
 --- 
