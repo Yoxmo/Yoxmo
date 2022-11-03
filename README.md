@@ -21,8 +21,8 @@ I am excited to see where the future of technology takes us.
 ```
 <a href="https://github.com/yoxmo">
   <img align="right" src="https://github-readme-streak-stats.herokuapp.com/?user=yoxmo&theme=dark" />
+  <br>
 </a>
-
 
 > - View all my [projects](https://github.com/yoxmo).
 > - Try out some [repos](https://replit.com/@Yoxmo).
