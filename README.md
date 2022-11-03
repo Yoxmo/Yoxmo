@@ -9,23 +9,21 @@
 
 --- 
 
+```
 Hello, my name is Y, I'm currently a University student studying computer science. I mainly do projects in python, javascript, and occasionally c/c++.
 
 Im interested in Neural Networks and Deep Learning as well as Quantaum Computers, I've worked with the cloud-based quantum computer hosted by IBM and had access to GTB-1 when it was first released. I am excited to see where the future of technology takes us.
-
+```
 <a href="https://github.com/yoxmo">
   <img align="right" src="https://github-readme-streak-stats.herokuapp.com/?user=yoxmo&theme=dark" />
 </a>
 
-- View all my projects [here](https://github.com/yoxmo).
-- Try out some repos [here](replit.com/@Yoxmo)
-- Contact me at [mamo.17@buckeyemail.osu.edu](mailto:mamo.17@buckeyemail.osu.edu)
-<p>
-<br>
-<br>
-<br>
-<br>
-</p>
+> <p> <br> <p>
+> - View all my [projects](https://github.com/yoxmo).
+> - Try out some [repos](replit.com/@Yoxmo).
+> - Check out my [website](replit.com/@Yoxmo).
+> - Contact me at [mamo.17@buckeyemail.osu.edu](mailto:mamo.17@buckeyemail.osu.edu)
+> <p> <br> <p>
 
 ---
 
