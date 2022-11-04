@@ -26,13 +26,17 @@ I mainly do projects in python, javascript, and occasionally c/c++.
  - Try out some [repos](https://replit.com/@Yoxmo).
  - Check out my [website](https://replit.com/@Yoxmo).
  - Contact me at [mamo.17@osu.edu](mailto:mamo.17@buckeyemail.osu.edu).
-  <p> <br> </p>
 
+
+<p align="center">
+<br/>
+<br/>
+</p>
+
+--- 
 
 <div align="center" style="width:75%"> 
-  <p><br></p>
- <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight" style='width:80%;'/>
-
+ <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight" style='width:70%;'/>
 </div>
 
 
