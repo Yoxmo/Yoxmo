@@ -22,6 +22,8 @@ I mainly do projects in python, javascript, and occasionally c/c++.
   <br>
 </a>
 
+<p> </p>
+
  - View all my [projects](https://github.com/yoxmo).
  - Try out some [repos](https://replit.com/@Yoxmo).
  - Check out my [website](https://replit.com/@Yoxmo).
