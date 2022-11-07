@@ -41,6 +41,7 @@ I mainly do projects in python, javascript, and occasionally c/c++.
   <p align="center">
   </p>
  <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight" style='width:70%;'/>
+ STREAK
 </div>
 
 
