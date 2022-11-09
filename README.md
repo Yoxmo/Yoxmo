@@ -23,16 +23,15 @@ I mainly do projects in python, javascript, and occasionally c/c++.
   <br>
 </a>
 
-<p> _________________________________________ </p>
 
-
- - View all my [projects](https://github.com/yoxmo).
- - Try out some [repos](https://replit.com/@Yoxmo).
- - Check out my [website](https://replit.com/@Yoxmo).
- - Contact me at [mamo.17@osu.edu](mailto:mamo.17@buckeyemail.osu.edu).
+ - View all my [Projects](https://github.com/yoxmo).
+ - Try out some [Repos](https://replit.com/@Yoxmo).
+ - Check out my [Sites](https://replit.com/@Yoxmo).
+ - Contact me via [Email](mailto:mamo.17@buckeyemail.osu.edu).
 
 
 <p align="center">
+<br/>
 <br/>
 </p>
 
@@ -42,7 +41,6 @@ I mainly do projects in python, javascript, and occasionally c/c++.
   <p align="center">
   </p>
  <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight" style='width:70%;'/>
- 
   
 </div>
 
