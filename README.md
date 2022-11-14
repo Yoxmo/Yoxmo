@@ -33,6 +33,7 @@ I mainly do projects in python, javascript, and occasionally c/c++.
 <p align="center">
 <br/>
 <br/>
+<br/>
 </p>
 
 --- 
