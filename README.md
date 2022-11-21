@@ -4,7 +4,7 @@
 
 <p align="center">
   <a href="https://github.com/Yoxmo"> <img src="https://gpvc.arturio.dev/yoxmo" alt="Awards"> </a>
-  <a href="https://replit.com/@Yoxmo"><img style="width: 80px; height: 25px;" src="https://blog.replit.com/images/new_logo/logotype.png" alt="Replit"></a> 
+  <a href="https://replit.com/@Yoxmo"><img style="width: 80px; height: 25px;" src="https://user-images.githubusercontent.com/94254616/203129585-7adb4147-fc03-4938-81ac-7f077b693195.png" alt="Replit"></a> 
 </p>
 
 --- 
