@@ -1,12 +1,14 @@
-<h3 align="center">
-<img src="https://user-images.githubusercontent.com/94254616/200684418-5ff87679-4452-466c-afa2-2363e617d5a5.gif" width="100%" height="300">
-</h3> 
+<div align="center"
+  <h3 align="center">
+  <img src="https://user-images.githubusercontent.com/94254616/200684418-5ff87679-4452-466c-afa2-2363e617d5a5.gif" width="100%" height="300">
+  </h3> 
 
-<p align="center">
-
-  <a href="https://github.com/Yoxmo"> <img src="https://gpvc.arturio.dev/yoxmo" alt="Awards"> </a>
-  <a href="https://replit.com/@Yoxmo"><img style="width: 80px; height: 25px;" src="https://user-images.githubusercontent.com/94254616/203129585-7adb4147-fc03-4938-81ac-7f077b693195.png" alt="Replit"></a> 
-</p>
+  <p align="center">
+    <a href="https://github.com/Yoxmo"><img src="https://gpvc.arturio.dev/yoxmo" alt="Awards"> </a>
+    <a href="https://replit.com/@Yoxmo"><img style="width: 80px; height: 25px;" src="https://user-images.githubusercontent.com/94254616/203129585-7adb4147-fc03-4938-81ac-7f077b693195.png" alt="Replit"></a> 
+  </p>
+  
+</div>
 
 --- 
 
@@ -38,7 +40,7 @@
  - Contact me via [Email](mailto:mamo.17@buckeyemail.osu.edu).
 
 
-<p align="center">
+<p>
 <br/>
 <br/>
 <br/>
