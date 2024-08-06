@@ -3,10 +3,6 @@
   <img src="https://wallpaperaccess.com/full/5927911.gif" width="100%" height="350">
   </h3> 
 
-  <p align="center">
-     <a href="https://www.linkedin.com/in/yordanos-mamo-506159237/"><img style="width: 80px; height: 35px;" src="https://static.vecteezy.com/system/resources/previews/018/930/587/non_2x/linkedin-logo-linkedin-icon-transparent-free-png.png" alt="Replit"></a> 
-    <a href="https://replit.com/@Yoxmo"><img style="width: 80px; height: 35px;" src="https://user-images.githubusercontent.com/94254616/203129585-7adb4147-fc03-4938-81ac-7f077b693195.png" alt="Replit"></a> 
-  </p>
   
 </div>
 
